@@ -1,16 +1,32 @@
-### Hi there 👋
+**_¡Hola!_** 👋
 
-<!--
-**TheChec/TheChec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy Sergio Calderon. Un desarrollador de Software Colombiano.**  
+**Me dedico a construir ideas, darles una cara y a dotarlas de funciones para cada usuario.**
 
-Here are some ideas to get you started:
+**En mis trabajos he usado varias tecnologías  
+para desenvolverme lo más eficazmente posible en mi área  
+¡Prefiero no perderme de nada!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Tecnologías!  👨‍💻
+-
+- ✅HTML
+
+- ✅CSS
+
+- ✅Javascript
+
+- ✅Typescript
+
+- ✅Java
+
+
+¡Frameworks! 💻
+-
+- ✅Angular
+
+¡Bases de datos! 💾
+-
+- ✅MySQL
+
+
+
