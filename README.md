@@ -27,6 +27,7 @@ para desenvolverme lo más eficazmente posible en mi área
 ¡Bases de datos! 💾
 -
 - ✅MySQL
+- ✅MongoDB
 
 
 
