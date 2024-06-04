@@ -19,6 +19,9 @@ para desenvolverme lo más eficazmente posible en mi área
 
 - ✅Java
 
+- ✅Python
+
+
 
 ¡Frameworks! 💻
 -
